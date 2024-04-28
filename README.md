@@ -4,10 +4,10 @@ This repository contains two machine learning models developed using Python and 
 
 # Models Overview
 
-1. Customer Segmentation using KMeans Clustering
+1. Customer Segmentation using KMeans Clustering - 
 Customer segmentation is a technique used by businesses to divide customers into groups based on common characteristics. In this model, KMeans clustering algorithm is employed to segment customers into distinct groups based on their purchasing behavior.
 
-2. Movie Recommendation System
+2. Movie Recommendation System - 
 A movie recommendation system helps users discover new movies based on their preferences and past interactions. This model employs collaborative filtering technique to recommend movies to users based on their historical movie ratings.
 
 
